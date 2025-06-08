@@ -12,9 +12,3 @@
 
 
 
-## 🏗️ Setup Instructions
-
-```bash
-git clone https://github.com/yourusername/SmartLoad.git
-cd SmartLoad
-pip install -r requirements.txt
